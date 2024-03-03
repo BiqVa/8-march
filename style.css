@@ -1,0 +1,25 @@
+.titl{
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+  color:red;
+}
+.button{
+  display:inline;
+  border-radius: 2px;
+  border: 2px solid pink;
+  padding: 4px;
+  color:red;
+  
+}
+div{
+  display:flex;
+  justify-content:center
+}
+img{
+  height:100px;
+  display: none;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
